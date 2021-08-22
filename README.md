@@ -9,3 +9,6 @@ https://www.cleancube.tech/
 https://github.com/Sumalyo/RNN-API-Endpoint
 - I2C Drivers for Microchip PIC32
 https://github.com/Sumalyo/i2c_TC74
+
+Our project CleanCube was featured in ABP Education, check out the article at
+https://bit.ly/3B4iKEA
